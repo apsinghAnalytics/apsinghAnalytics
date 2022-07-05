@@ -27,6 +27,8 @@ You can find me on [![LinkedIn][1.1]][1].
 [1]: https://www.linkedin.com/in/singhadityamech/
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=DDataDudeADi&show_icons=true"/>
+
 
 
 
