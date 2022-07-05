@@ -21,7 +21,7 @@ I am looking to go further in Data Analytics and Data Science in the fintech ind
 You can find me on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
-[1.1]: <img src= "https://cdn-icons-png.flaticon.com/512/174/174857.png" resize=20,20>
+[1.1]:<img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png">
 
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/singhadityamech/
@@ -29,7 +29,7 @@ You can find me on [![LinkedIn][1.1]][1].
 
 <img src="https://github-readme-stats.vercel.app/api?username=DDataDudeADi&show_icons=true"/>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DDataDudeADi&layout=compact"/>
 
 
 
