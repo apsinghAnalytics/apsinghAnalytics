@@ -4,9 +4,9 @@
 
 <img src="https://i0.wp.com/petergrandich.com/wp-content/uploads/2019/08/stock-market-meme-20.jpg" resize=325,200>
 
-I currently work as a part time Data Analyst in a construction technology company, where I conduct data analysis of project management and project finance data and build relevant dashboards in PowerBI.
+I currently work as a part-time Data Analyst in a construction technology company, where I conduct data analysis of project management and project finance data and build relevant dashboards in PowerBI.
 
-I am looking to go further in Data Analytics and Data Science in the fintech industry, and for that I am currently upskilling my SQL skills with the help of practice tutorials from [Mode Analytics](https://mode.com/sql-tutorial/). By August 2022, I am also looking to start the [Applied Data Science with Python Specialization Course](https://www.coursera.org/specializations/data-science-python) offered by Michigan University, and hope that by this upskilling endeavour, I will be able to transition to a full time Data Scientist role, where I am constantly in touch with data from the capital markets: Stocks, Real Estate, and Blockchain.
+I am looking to go further in Data Analytics and Data Science in the fintech industry, and for that, I am currently upskilling my SQL skills with the help of practice tutorials from [Mode Analytics](https://mode.com/sql-tutorial/). In my free time, I also work on personal projects connected with capital markets, some of which I have publicly shared here in my GitHub repos. I plan to be able to transition to a full-time Data Scientist role, where I am constantly in touch with data from the capital markets: Stocks, Real Estate, and Blockchain.
 
 
 <h4>📕 My Upcoming Blog Posts :) </h4>
