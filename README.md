@@ -1,12 +1,14 @@
 
-<h3>Hi! 👋<br> I'm Aditya Prakash Singh <br>a Data Analyst, Content Creator, and Capital Markets Enthusiast</h3>
+<h3>Hi! 👋<br> I'm Aditya Prakash Singh <br>a Data Analyst, Data Science Enthusiast, and Capital Markets Enthusiast</h3>
 
 
 <img src="https://i0.wp.com/petergrandich.com/wp-content/uploads/2019/08/stock-market-meme-20.jpg" resize=325,200>
 
 I currently work as a part-time Data Analyst in a construction technology company, where I conduct data analysis of project management and project finance data and build relevant dashboards in PowerBI.
 
-I am looking to go further in Data Analytics and Data Science in the fintech industry, and for that, I am currently upskilling my SQL skills with the help of practice tutorials from [Mode Analytics](https://mode.com/sql-tutorial/). In my free time, I also work on personal projects connected with capital markets, some of which I have publicly shared here in my GitHub repos. I plan to be able to transition to a full-time Data Scientist role, where I am constantly in touch with data from the capital markets: Stocks, Real Estate, and Blockchain.
+I am actively pursuing a career in Data Science and Analytics with a particular interest in applying these skills within industries such as finance, economics, business analytics, and real estate. Currently, I am dedicated to enhancing my SQL proficiency through practical tutorials provided by [Mode Analytics](https://mode.com/sql-tutorial/).
+
+In my spare time, I engage in personal projects related to capital markets, some of which I have publicly shared on my GitHub repositories. My ultimate goal is to transition into a full-time Data Scientist role, where I can consistently work with data in areas including stocks, real estate, economics, and blockchain, leveraging my analytical expertise to drive valuable insights and solutions
 
 
 <h4>📕 My Upcoming Blog Posts :) </h4>
