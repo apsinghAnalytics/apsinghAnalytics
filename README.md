@@ -11,14 +11,6 @@ I am actively pursuing a career in Data Science and Analytics with a particular 
 In my spare time, I engage in personal projects related to capital markets, some of which I have publicly shared on my GitHub repositories. My ultimate goal is to transition into a full-time Data Scientist role, where I can consistently work with data in areas including stocks, real estate, economics, and blockchain, leveraging my analytical expertise to drive valuable insights and solutions
 
 
-<h4>📕 My Upcoming Blog Posts :) </h4>
-
-<!-- BLOG-POST-LIST:START -->
-- [A future blog post that I am planning to write](https://)
-- [A second future blog post that I am planning to write](https://)
-<!-- BLOG-POST-LIST:END -->
-
-
 <!-- Actual text -->
 You can find me on [![LinkedIn][1.1]][1].
 
