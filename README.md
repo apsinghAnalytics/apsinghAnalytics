@@ -20,17 +20,18 @@ You can find me on [![LinkedIn][1.1]][1].
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/singhadityamech/
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=DDataDudeADi&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DDataDudeADi&layout=compact"/>
-
+💬 Ask me about personal finance and neuroscience
 
 
 
 
 <!--
 **DDataDudeADi/DDataDudeADi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://github-readme-stats.vercel.app/api?username=DDataDudeADi&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DDataDudeADi&layout=compact"/>
+
 
 Here are some ideas to get you started:
 
