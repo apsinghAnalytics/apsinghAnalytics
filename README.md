@@ -6,13 +6,13 @@
 
 I currently work as a part-time Data Analyst in a construction technology company, where I conduct data analysis of project management and project finance data and build relevant dashboards in PowerBI.
 
-I am actively pursuing a career in Data Science and Analytics with a particular interest in applying these skills within industries such as finance, economics, business analytics, and real estate. Currently, I am dedicated to enhancing my SQL proficiency through practical tutorials provided by [Mode Analytics](https://mode.com/sql-tutorial/).
+I am actively pursuing a career in Data Science and Analytics with a particular interest in applying these skills within industries such as finance, economics, business analytics, and real estate. Currently, I am dedicated to upgrading my data science skills via a mixt of Kaggle notebook reading, working on personal projects (which I occassional upload on Github), reading Medium data science blogs, and taking Coursera courses.
 
 In my spare time, I engage in personal projects related to capital markets, some of which I have publicly shared on my GitHub repositories. My ultimate goal is to transition into a full-time Data Scientist role, where I can consistently work with data in areas including stocks, real estate, economics, and blockchain, leveraging my analytical expertise to drive valuable insights and solutions
 
 
 <!-- Actual text -->
-You can find me on [![LinkedIn][1.1]][1].
+You can find me on [my personal website](https://apsinghanalytics.github.io/)
 
 <!-- Icons -->
 [1.1]:<img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png">
@@ -23,7 +23,9 @@ You can find me on [![LinkedIn][1.1]][1].
 💬 Ask me about personal finance and neuroscience
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=apsinghAnalytics&show_icons=true"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=apsinghAnalytics&layout=compact"/>
 
 <!--
 **DDataDudeADi/DDataDudeADi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
