@@ -12,27 +12,16 @@ In my spare time, I engage in personal projects related to capital markets, some
 
 
 <!-- Actual text -->
-<!-- Actual text --> You can find me on [my personal website](https://apsinghanalytics.github.io/)
+
 
 <!-- Icons -->
 [1.1]:<img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png">
 
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/singhadityamech/
 
 💬 Ask me about personal finance and neuroscience
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=apsinghAnalytics&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=apsinghAnalytics&layout=compact"/>
-
 <!--
 **DDataDudeADi/DDataDudeADi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://github-readme-stats.vercel.app/api?username=DDataDudeADi&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DDataDudeADi&layout=compact"/>
 
 
 Here are some ideas to get you started:
