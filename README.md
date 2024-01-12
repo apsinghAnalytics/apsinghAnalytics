@@ -1,5 +1,5 @@
 
-<h3>Hi! 👋<br> I'm Aditya Prakash Singh <br>a Data Analyst, Data Science Enthusiast, and Capital Markets Enthusiast</h3>
+<h3>Hi! 👋<br> I'm <br>a Data Analyst, Data Science Enthusiast, and Capital Markets Enthusiast</h3>
 
 
 <img src="https://i0.wp.com/petergrandich.com/wp-content/uploads/2019/08/stock-market-meme-20.jpg" resize=325,200>
@@ -12,7 +12,7 @@ In my spare time, I engage in personal projects related to capital markets, some
 
 
 <!-- Actual text -->
-You can find me on [my personal website](https://apsinghanalytics.github.io/)
+<!-- Actual text --> You can find me on [my personal website](https://apsinghanalytics.github.io/)
 
 <!-- Icons -->
 [1.1]:<img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png">
