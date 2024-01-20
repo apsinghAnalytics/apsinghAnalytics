@@ -17,7 +17,8 @@ In my spare time, I engage in personal projects related to capital markets, some
 <!-- Icons -->
 [1.1]:<img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png">
 
-
+💬 Ask me about the future of AI
+💬 Ask me about how to get started in your data science journey
 💬 Ask me about personal finance and neuroscience
 
 <!--
